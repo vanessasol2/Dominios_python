@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="14.00" multi-file="no" uid="simp9c755ff98d334a3c81e3b1743f5b74ea" creation-date="02/07/2024 14:37:59">
+  <meta>
+    <name>ClassesDiseño</name>
+    <authors> Aprendiz</authors>
+    <description />
+  </meta>
+  <counters models="1">
+    <entity-names />
+    <entity-ids />
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlClassDiagram</type>
+        <value>1</value>
+      </counter>
+    </diagrams>
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-f492333852084f359a820717861c11a1" name="" task-id-sequence="0">
+    <persons>
+      <person id="">
+        <first-name />
+        <last-name>Aprendiz</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-45c2886120b5470dafb6865900d642c1" name="" order-index="-1" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <parameters />
+      <types />
+    </custom-types>
+  </types>
+  <items />
+  <models>
+    <model id="pa02f4c8e29c143f18199704bbd2cd157_434037877" name="Model1" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author> Aprendiz</author>
+        </authors>
+        <description />
+        <creation-date>02/07/2024 14:38:03</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="uml-class" id="p3c04872eef61492985e1b9411ffcc982_375869686" name="ClassDiagram1" order-index="1" uid="" auto-routed-paths="false" default-line-style="default">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> Aprendiz</author>
+          </authors>
+          <description />
+          <creation-date>02/07/2024 14:38:03</creation-date>
+          <change-date>02/07/2024 14:38:03</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items />
+        <layer id="285825cc96de469183d9741bbf42751c" name="Default" visible="true" enabled="true" locked="false" />
+      </diagram>
+    </model>
+  </models>
+</sim-project>

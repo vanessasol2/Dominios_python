@@ -1,0 +1,32 @@
+Constructor de clase 
+    Es una funcion o metodo o metodo que se ejecuta automaticamente 
+    tan poto se quiere crear un objeto 
+    
+    El constructor sirve para : 
+    -- crear un espacio de memoria para un objeto 
+    -- Inicializar atributos de un objeto (Dar valores iniciales a los atributos del objeto)
+
+    INSTANCIAR: Crear un objeto
+
+CARDINALIDAD --> para leer de manera completa la relacion 
+    * (M): Muchos  
+    1 : Solo uno 
+    1,5: tiene uno o cinco 
+    0..* : un cliente tiene minimo 0 maximo n carros 
+    1..*: tiene minimo 1 maximo n carros  
+Multiplicidad -->
+Numero de instancia --> Cual es el numero de instancias que puede participar en una clase  
+
+LISTA Conneccion :
+
+    conjunto de elementos que tiene un orden 
+    Puede almacenar datos de diferente tipo y dispone de metodos u operaciones  
+    para : ---> añadir, remover, actualizar, acceder a un elemento individual o recorrer todos los elementos de una lista 
+
+****ciclo FOR
+
+    for x in 
+
+    for(variable in Lista del objeto)
+        INSTRUCIONES DEL CICLO 
+    
