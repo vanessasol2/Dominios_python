@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="14.00" multi-file="no" uid="simpaab835d7628e42e6a093ce8766f69d53" creation-date="02/13/2024 13:50:53">
+  <meta>
+    <name>modelo_parking</name>
+    <authors> Aprendiz</authors>
+    <description />
+  </meta>
+  <counters models="1">
+    <entity-names />
+    <entity-ids />
+    <diagrams>
+      <counter>
+        <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlClassDiagram</type>
+        <value>2</value>
+      </counter>
+    </diagrams>
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-fd7c8bb7af2a45c1a54359a0f581a2f3" name="" task-id-sequence="0">
+    <persons>
+      <person id="">
+        <first-name />
+        <last-name>Aprendiz</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-d2c3eb4b7ce84fcbb10bdb76ab032a77" name="" order-index="-1" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <parameters />
+      <types />
+    </custom-types>
+  </types>
+  <items />
+  <models>
+    <model id="p1050530caa824d70a5b56ebc15bcd4c3_880569266" name="Model1" namespace="" order-index="1">
+      <meta>
+        <authors>
+          <author> Aprendiz</author>
+        </authors>
+        <description />
+        <creation-date>02/13/2024 13:53:45</creation-date>
+        <change-date>01/01/0001 00:00:00</change-date>
+        <revision-count>0</revision-count>
+        <version />
+      </meta>
+      <abstract-items />
+      <sub-models />
+      <diagram type="uml-class" id="p6e4785c90e854d28a5b9c40669dec733_173671126" name="ClassDiagram1" order-index="1" uid="" auto-routed-paths="false" default-line-style="default">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> Aprendiz</author>
+          </authors>
+          <description />
+          <creation-date>02/13/2024 13:53:45</creation-date>
+          <change-date>02/13/2024 13:53:45</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items />
+        <layer id="e677b59ca70a4e8eafd009d296fb03f6" name="Default" visible="true" enabled="true" locked="false" />
+      </diagram>
+      <diagram type="uml-class" id="pd53b36d18b744876ac0a416b8d2f1d4f_729174347" name="ClassDiagram2" order-index="2" overview-order-index="0" uid="" auto-routed-paths="false" default-line-style="default">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> Aprendiz</author>
+          </authors>
+          <description />
+          <creation-date>02/13/2024 13:53:51</creation-date>
+          <change-date>02/13/2024 13:53:51</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items />
+        <layer id="9dc079f79a6c47a4b7dce6869769a6a7" name="Default" visible="true" enabled="true" locked="false" />
+      </diagram>
+    </model>
+  </models>
+</sim-project>

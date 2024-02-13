@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="14.00" multi-file="no" uid="simpaab835d7628e42e6a093ce8766f69d53" creation-date="02/13/2024 13:50:53">
+  <meta>
+    <name>modelo_parking</name>
+    <authors> Aprendiz</authors>
+    <description />
+  </meta>
+  <counters>
+    <entity-names />
+    <entity-ids />
+    <diagrams />
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-fd7c8bb7af2a45c1a54359a0f581a2f3" name="" task-id-sequence="0">
+    <persons>
+      <person id="">
+        <first-name />
+        <last-name>Aprendiz</last-name>
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-d2c3eb4b7ce84fcbb10bdb76ab032a77" name="" order-index="-1" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <parameters />
+      <types />
+    </custom-types>
+  </types>
+  <items />
+  <models />
+</sim-project>

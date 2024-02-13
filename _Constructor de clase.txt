@@ -1,3 +1,5 @@
+GIT Fetch --> descargar ramas  (git fetch origin RAMA)
+GIT checkout --> cambiar a una rama 
 Constructor de clase 
     Es una funcion o metodo o metodo que se ejecuta automaticamente 
     tan poto se quiere crear un objeto 
