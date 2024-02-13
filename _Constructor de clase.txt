@@ -19,15 +19,6 @@ CARDINALIDAD --> para leer de manera completa la relacion
 Multiplicidad -->
 Numero de instancia --> Cual es el numero de instancias que puede participar en una clase  
 
-LISTA Conneccion :
-
-    conjunto de elementos que tiene un orden 
-    Puede almacenar datos de diferente tipo y dispone de metodos u operaciones  
-    para : ---> añadir, remover, actualizar, acceder a un elemento individual o recorrer todos los elementos de una lista 
-
-****ciclo FOR
-
-    for x in 
 
     for(variable in Lista del objeto)
         INSTRUCIONES DEL CICLO 
